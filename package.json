@@ -21,7 +21,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PeteSalcedo/MusicStore/issues"
-  },"dependencies": {
+  },
+  "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
@@ -36,5 +37,4 @@
     "webpack-dev-server": "^1.14.1"
   },
   "homepage": "https://github.com/PeteSalcedo/MusicStore#readme"
-  
 }
